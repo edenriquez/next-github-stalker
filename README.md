@@ -11,4 +11,4 @@ Ready to go project to start learning next
 * fetch of graphql endpoint
 * component examples
 
-
+![](/static/screen.gif)
